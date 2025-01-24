@@ -1,5 +1,4 @@
-// Online Go compiler to run Golang program online
-// Print "Try programiz.pro" message
+
 
 package main
 
